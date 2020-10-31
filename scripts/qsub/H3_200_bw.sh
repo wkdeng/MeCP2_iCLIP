@@ -1,0 +1,3 @@
+python /home/dengw1/workspace/snakerun/MeCP2_iCLIP/scripts/make_bw.py --ub /home/dengw1/workspace/MeCP2_iCLIP/clam/H3/unique.sorted.bam --rb     /home/dengw1/workspace/MeCP2_iCLIP/clam/H3_200/realigned.sorted.bam -g /home/dengw1/workspace/genome/raw/hg19/hg19.gtf -u -t 20 -o /home/dengw1/workspace/MeCP2_iCLIP/bigwig/200 -s H3 -c /home/dengw1/workspace/genome/raw/hg19/chr_size.txt
+    python /home/dengw1/workspace/snakerun/MeCP2_iCLIP/scripts/mapping_stat.py /home/dengw1/workspace/MeCP2_iCLIP/star/H3/Aligned.out.bam /home/dengw1/workspace/MeCP2_iCLIP/cutadapt/H3_fastqc.zip > /home/dengw1/workspace/MeCP2_iCLIP/star/H3/mapping_stat.txt
+    
