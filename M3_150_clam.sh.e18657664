@@ -412,3 +412,5 @@
  pid 151105 : 1200 / 1849 (64.90%)
 2020-10-30 23:55:00,221 - CLAM.permutation_peakcaller - DEBUG -
  pid 151095 : 1400 / 1849 (75.72%)
+2020-10-30 23:59:43,015 - CLAM.permutation_peakcaller - DEBUG -
+ pid 151109 : 1200 / 1848 (64.94%)
