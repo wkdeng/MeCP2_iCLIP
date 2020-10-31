@@ -474,3 +474,81 @@
  pid 1716 : 1000 / 1848 (54.11%)
 2020-10-30 21:49:36,321 - CLAM.permutation_peakcaller - DEBUG -
  pid 1700 : 1600 / 1849 (86.53%)
+2020-10-30 21:54:40,656 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1705 : 1200 / 1848 (64.94%)
+2020-10-30 21:57:28,932 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1719 : 1800 / 1848 (97.40%)
+2020-10-30 22:00:12,058 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1698 : 1200 / 1849 (64.90%)
+2020-10-30 22:05:20,389 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1708 : 1400 / 1849 (75.72%)
+2020-10-30 22:06:25,995 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1710 : 1400 / 1848 (75.76%)
+2020-10-30 22:08:11,070 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1692 : 1400 / 1849 (75.72%)
+2020-10-30 22:13:27,974 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1696 : 1800 / 1849 (97.35%)
+2020-10-30 22:14:59,193 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1707 : 1600 / 1848 (86.58%)
+2020-10-30 22:19:02,775 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1699 : 1400 / 1849 (75.72%)
+2020-10-30 22:21:52,367 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1703 : 1600 / 1848 (86.58%)
+2020-10-30 22:24:21,289 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1694 : 1200 / 1850 (64.86%)
+2020-10-30 22:28:26,829 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1704 : 1400 / 1850 (75.68%)
+2020-10-30 22:34:55,416 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1697 : 1600 / 1850 (86.49%)
+2020-10-30 22:37:25,734 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1716 : 1200 / 1848 (64.94%)
+2020-10-30 22:38:16,343 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1695 : 1400 / 1849 (75.72%)
+2020-10-30 22:38:45,745 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1693 : 1400 / 1849 (75.72%)
+2020-10-30 22:47:41,645 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1711 : 1400 / 1848 (75.76%)
+2020-10-30 22:48:36,017 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1706 : 1600 / 1848 (86.58%)
+2020-10-30 22:49:16,719 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1705 : 1400 / 1848 (75.76%)
+2020-10-30 22:49:25,366 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1715 : 1000 / 1849 (54.08%)
+2020-10-30 22:57:28,874 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1703 : 1800 / 1848 (97.40%)
+2020-10-30 22:57:30,001 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1698 : 1400 / 1849 (75.72%)
+2020-10-30 22:59:41,562 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1709 : 1400 / 1849 (75.72%)
+2020-10-30 23:00:04,115 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1699 : 1600 / 1849 (86.53%)
+2020-10-30 23:09:29,763 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1713 : 1800 / 1848 (97.40%)
+2020-10-30 23:10:03,669 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1694 : 1400 / 1850 (75.68%)
+2020-10-30 23:13:24,869 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1694 : 1600 / 1850 (86.49%)
+2020-10-30 23:14:33,879 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1692 : 1600 / 1849 (86.53%)
+2020-10-30 23:16:08,798 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1708 : 1600 / 1849 (86.53%)
+2020-10-30 23:18:24,863 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1709 : 1600 / 1849 (86.53%)
+2020-10-30 23:19:40,106 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1695 : 1600 / 1849 (86.53%)
+2020-10-30 23:22:03,457 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1697 : 1800 / 1850 (97.30%)
+2020-10-30 23:25:58,434 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1710 : 1600 / 1848 (86.58%)
+2020-10-30 23:26:32,239 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1715 : 1200 / 1849 (64.90%)
+2020-10-30 23:30:03,865 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1693 : 1600 / 1849 (86.53%)
+2020-10-30 23:33:24,360 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1704 : 1600 / 1850 (86.49%)
+2020-10-30 23:34:45,991 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1698 : 1600 / 1849 (86.53%)
+2020-10-30 23:37:04,145 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1699 : 1800 / 1849 (97.35%)
+2020-10-30 23:38:06,308 - CLAM.permutation_peakcaller - DEBUG -
+ pid 1707 : 1800 / 1848 (97.40%)
