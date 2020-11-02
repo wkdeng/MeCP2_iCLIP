@@ -28,24 +28,24 @@ Three directories should be provide: <br />
 1. script_folder: the full path of subdirectory 'scripts' in this project (i.e.: ~/workspace/MeCP2_iCLIP/scripts)<br>
 2. data_folder: the full path you wish to store all generated data files. This folder should contains 1 subfolder named raw_fq and put unzipped fq files in it (Undetermined_S0_L003_R1_001.fastq)<br>
 3. genome_folder: the full path of your genome files, this folder should organized like (i.e.: ~/workspace/genome):<br>
-genome/<br />
-├── raw<br />
-│   ├── hg19<br />
-│   │   ├── chr_size.txt<br />
-│   │   ├── hg19.fasta<br />
-│   │   ├── hg19.gtf<br />
-│   │   └── rRNA_tRNA.bed<br />
-│   └── mm10<br />
-│       ├── chr_size.txt<br />
-│       ├── mm10.fasta<br />
-│       ├── mm10.gtf<br />
-│       ├── mm10.trim.fasta<br />
-│       └── rRNA_tRNA.bed<br />
-└── star<br />
-    ├── hg19<br />
-    │   └── ... files of STAR index for hg19<br />
-    └── mm10
-        └── ... files of STAR index for mm10<br />
+genome/<br/>
+├── raw<br/>
+│   ├── hg19<br/>
+│   │   ├── chr_size.txt<br/>
+│   │   ├── hg19.fasta<br/>
+│   │   ├── hg19.gtf<br/>
+│   │   └── rRNA_tRNA.bed<br/>
+│   └── mm10<br/>
+│       ├── chr_size.txt<br/>
+│       ├── mm10.fasta<br/>
+│       ├── mm10.gtf<br/>
+│       ├── mm10.trim.fasta<br/>
+│       └── rRNA_tRNA.bed<br/>
+└── star<br/>
+    ├── hg19<br/>
+    │   └── ... files of STAR index for hg19<br/>
+    └── mm10<br/>
+        └── ... files of STAR index for mm10<br/>
 ## Run Jupyter notebook pipeline for MeCP2 iCLIP data
 Prepare everything as bash pipeline, remember to run next cell only after all jobs submitted by the previous cell completed, this simple script DOES NOT check job status.
 
