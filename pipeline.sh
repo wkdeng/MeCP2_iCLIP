@@ -1,5 +1,5 @@
 ## Parameter setting, please edit it to your own path
-script_folder=~/snakerun/MeCP2_iCLIP/scripts
+script_folder=~/workspace/snakerun/MeCP2_iCLIP/scripts
 data_folder=~/workspace/MeCP2_iCLIP
 genome_folder=~/workspace/genome
 ## Demultiplex
